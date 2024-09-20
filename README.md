@@ -40,19 +40,20 @@ OR
 
 2.Run via IDE
 
-##Contributions 
+## Contributions 
+
+
 Contributions welcome. I you'd like to contribute to the project, use following steps: 
 
 1. Fork the repo
 2. Create new branch for your feature or ammendment: git checkout -b feature/your-feature-name
 3. Make changes and commit: git commit -m "Add some feature"
 4. Push to branch: git push origin feature/your-feature-name
-5.Create pull request describing your changes 
+5. Create pull request describing your changes 
 
-	Guidelines: Make sure code is well documented
-		          Keep changes focused on single feature/bug fix 
-		          Ensure code compiles and runs correctly prior to submitting  
-
+	Guidelines: Make sure code is well documented,
+		    Keep changes focused on single feature/bug fix,
+		    Ensure code compiles and runs correctly prior to submitting  
 
 
 
