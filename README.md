@@ -43,7 +43,7 @@ OR
 ## Contributions 
 
 
-Contributions welcome. I you'd like to contribute to the project, use following steps: 
+Contributions welcome. If you'd like to contribute to the project, use following steps: 
 
 1. Fork the repo
 2. Create new branch for your feature or ammendment: git checkout -b feature/your-feature-name
